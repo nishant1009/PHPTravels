@@ -1,4 +1,4 @@
-package com.phptravels.utilities;
+package com.freecrm.utilities;
 
 import java.io.File;
 import java.io.FileInputStream;

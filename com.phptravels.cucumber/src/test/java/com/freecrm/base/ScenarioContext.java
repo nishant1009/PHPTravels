@@ -1,9 +1,9 @@
-package com.phptravels.base;
+package com.freecrm.base;
 
 import org.openqa.selenium.WebDriver;
 
-import com.phptravels.pages.HomePage;
-import com.phptravels.utilities.ReadPropertyFile;
+import com.freecrm.pages.HomePage;
+import com.freecrm.utilities.ReadPropertyFile;
 
 public class ScenarioContext {
 

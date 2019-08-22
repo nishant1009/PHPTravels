@@ -1,4 +1,4 @@
-package com.phptravels.base;
+package com.freecrm.base;
 
 import java.util.concurrent.TimeUnit;
 
